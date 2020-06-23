@@ -663,7 +663,7 @@
 
 // var currentDate = new Date();
 // var currentDate1 = new Date();
-// var get = currentDate1.setHours();
+// var get = currentDate1.setHours(22);
 
 // document.write("Current date: " + currentDate + "<br/>" + "1 hour ago,it was " + currentDate1);
 
@@ -680,7 +680,7 @@
 // var currentDate1 = new Date();
 // var get = currentDate1.setFullYear(1920);
 
-// document.write("Current date: " + currentDate + "<br/>" + "1 hour ago,it was " + currentDate1);
+// document.write("Current date: " + currentDate + "<br/>" + "100 years ago,it was " + currentDate1);
 
 
 
